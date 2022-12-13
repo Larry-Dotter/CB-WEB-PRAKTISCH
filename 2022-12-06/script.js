@@ -66,7 +66,7 @@ console.log(myArray.length);
 let multiArray = [];
 multiArray[0] = ["Bohrmaschine", 34.99, true];
 multiArray[1] = ["Schraubenzieher", 9.99, false];
-multiArray[1] = ["Hammer", 2.99, true];
+multiArray[2] = ["Hammer", 2.99, true];
 document.write(multiArray[0][1] +'<br>');
 document.write(multiArray[2][2] +'<br>');
 document.write(multiArray);
