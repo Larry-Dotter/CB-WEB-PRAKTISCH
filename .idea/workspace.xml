@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbf046c4-f155-4847-b936-b3875e3f021e" name="Changes" comment="" />
+    <list default="true" id="cbf046c4-f155-4847-b936-b3875e3f021e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/Model/ToDoModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/Model/ToDoModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/controller/ToDo.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/controller/ToDo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/helper/helper.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/helper/helper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/inc/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/inc/nav.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/todo.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/todo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/todoEdit.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/todoEdit.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +30,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="2KoW4xJV08vURpiW3nENeS6NzAQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,6 +42,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/nobod/Desktop/Webentwicklung/Coders Bay Kurs Inhalt/WEB/PRAKTISCH/abendkurs-2022",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -39,6 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674641228567</updated>
       <workItem from="1674641230078" duration="105000" />
+      <workItem from="1676391559878" duration="9747000" />
     </task>
     <servers />
   </component>
