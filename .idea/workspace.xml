@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbf046c4-f155-4847-b936-b3875e3f021e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/Model/ToDoModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/Model/ToDoModel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/controller/ToDo.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/controller/ToDo.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/dashboard.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/helper/helper.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/helper/helper.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/inc/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/inc/nav.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/todo.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/todo.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/todoEdit.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP, JS, USW/2023-02-07/todoEdit.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674641228567</updated>
       <workItem from="1674641230078" duration="105000" />
-      <workItem from="1676391559878" duration="9747000" />
+      <workItem from="1676391559878" duration="10922000" />
     </task>
     <servers />
   </component>
